@@ -3,4 +3,4 @@
 	url = https://github.com/Tencent/rapidjson.git
 [submodule "external/eosjs"]
 	path = external/eosjs
-	url = https://github.com/zhi-cike/eosjs2.git
+	url = https://github.com/EOSIO/eosjs2.git
